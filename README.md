@@ -43,7 +43,7 @@ Many candidates struggle with resume formatting, keyword optimization, and tailo
 | State Mgmt    | Zustand                                            |
 | Build Tool    | Vite                                               |
 | Cloud & AI    | [Puter.js SDK](https://puter.com) (Auth, DB, AI)  |
-| Backend       | ⚡ None required (everything handled via SDK)       |
+
 
 ---
 
